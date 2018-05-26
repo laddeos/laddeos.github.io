@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# My Product Journal
 
-You can use the [editor on GitHub](https://github.com/laddeos/laddeos.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+*May 17, 2018:*
+### [My Switch from Engineering to Product Management](https://productcoalition.com/my-switch-from-engineering-to-product-management-292492f44ce0)
+> *A story of passion, determination, and courage.*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![](https://cdn-images-1.medium.com/max/2000/0*eeBefVo5aVHYJ_S_.)](https://productcoalition.com/my-switch-from-engineering-to-product-management-292492f44ce0)
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*Apr 2, 2018:*
+### [On the Issue of Lagos BRTs… part 2](https://medium.com/productmanager-africa/on-the-issue-of-lagos-brts-part-2-ba83b37f193e)
+> _An attempt at upgrading Lagos BRT experience part 2_
 
-```markdown
-Syntax highlighted code block
+[![](https://cdn-images-1.medium.com/max/2000/1*Q0Bc4VWF7mvQsEKJZK6RPQ.png)](https://medium.com/productmanager-africa/on-the-issue-of-lagos-brts-part-2-ba83b37f193e)
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+*Feb 17, 2018:*
+### [On the Issue of Lagos BRTs… part 1](https://medium.com/productmanager-africa/on-the-issue-of-lagos-brts-d948ee55d50b)
+> _An attempt at upgrading Lagos BRT experience part 1_
 
-1. Numbered
-2. List
+[![](https://cdn-images-1.medium.com/max/1600/1*5emhnLB43rEvL1_T70ReTQ.png)](https://medium.com/productmanager-africa/on-the-issue-of-lagos-brts-d948ee55d50b)
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+*Nov 30, 2017:*
+### [Why I love Slack — “Several people are typing”](https://productcoalition.com/why-i-love-slack-several-people-are-typing-9e1f41b2a241)
+> _Disclaimer: This article represents the view of the author who fell in love with using slack as a collaboration tool and decided to write about it_
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[![](https://cdn-images-1.medium.com/max/1600/1*LKzOm8aR2dMYUu8ZNvITFg.png)](https://productcoalition.com/why-i-love-slack-several-people-are-typing-9e1f41b2a241)
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/laddeos/laddeos.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+*Aug 11, 2017:*
+### [What makes a Product Manager?](https://productcoalition.com/what-makes-a-product-manager-2c0a58dc0f14)
+> _I was recently asked, “what skills do you think product managers possess?” The question got me excited as it allowed me the opportunity to share what skills I picked up from my time as a product apprentice._
 
-### Support or Contact
+[![](https://cdn-images-1.medium.com/max/1600/1*6_LldYbEKV-uFR7MoqNNZw.png)](https://productcoalition.com/what-makes-a-product-manager-2c0a58dc0f14)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
