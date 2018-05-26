@@ -1,5 +1,7 @@
 # My Product Journal
 
+---
+
 *May 17, 2018:*
 ### [My Switch from Engineering to Product Management](https://productcoalition.com/my-switch-from-engineering-to-product-management-292492f44ce0)
 *A story of passion, determination, and courage.*
