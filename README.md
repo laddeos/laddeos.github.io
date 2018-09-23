@@ -3,6 +3,13 @@
 
 ---
 
+*Sept 21, 2018:*
+### [Make your Product Intuition Stronger with Data](https://productcoalition.com/make-your-product-intuition-stronger-with-data-d49bda02c07)
+
+[![](https://cdn-images-1.medium.com/max/1600/0*5svWcft1MJfqAqvW)](https://productcoalition.com/make-your-product-intuition-stronger-with-data-d49bda02c07)
+
+---
+
 *May 17, 2018:*
 ### [My Switch from Engineering to Product Management](https://productcoalition.com/my-switch-from-engineering-to-product-management-292492f44ce0)
 *A story of passion, determination, and courage.*
